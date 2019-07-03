@@ -1,4 +1,5 @@
 // https://www.hackerrank.com/challenges/fp-solve-me-first/problem
+
 package introduction.fp_solve_me_first
 
 object Solution {
