@@ -21,8 +21,8 @@ object Solution {
     innerGcd(a, b)
   }
 
-  // There is a bug in HackerRank. readLine() doesn't exist anymore in the predefined Solution.
-  // So I add it manually.
+  // readLine() is deprecated in Scala 13, but it is called by HackerRank's predefined code.
+  // So it is added to fix the issue.
   def readLine(): String = scala.io.StdIn.readLine()
 }
 

@@ -1,4 +1,4 @@
-// // https://www.hackerrank.com/challenges/fp-list-length/problem
+// https://www.hackerrank.com/challenges/fp-list-length/problem
 
 def f(arr: List[Int]): Int = {
   @scala.annotation.tailrec
