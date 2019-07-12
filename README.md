@@ -61,6 +61,7 @@ All test cases passed.
 | Problem | Solution |
 | :---: | :---: |
 |  [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem) | [Scala](src/main/recursion/functional_programming_warmups_in_recursion___gcd/Solution.scala) |
+|  [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem) | [Scala](src/main/recursion/functional_programming_warmups_in_recursion___fibonacci_numbers/Solution.scala) |
 
 ### Functional Structures
 ### Memoization and DP
