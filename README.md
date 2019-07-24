@@ -64,6 +64,7 @@ All test cases passed.
 |  [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem) | [Scala](src/main/recursion/functional_programming_warmups_in_recursion___fibonacci_numbers/Solution.scala) |
 |  [Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle/problem) | [Scala](src/main/recursion/pascals_triangle/Solution.scala) |
 |  [Functions and Fractals: Sierpinski triangles](https://www.hackerrank.com/challenges/functions-and-fractals-sierpinski-triangles/problem) | [Scala](src/main/recursion/functions_and_fractals_sierpinski_triangles/Solution.scala) |
+|  [String Mingling](https://www.hackerrank.com/challenges/string-mingling/problem) | [Scala](src/main/recursion/string_mingling/Solution.scala) |
 
 ### Functional Structures
 ### Memoization and DP
