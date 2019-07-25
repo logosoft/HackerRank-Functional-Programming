@@ -29,7 +29,7 @@ All test cases passed.
 ### Introduction
 
 | Problem | Solution |
-| :---: | :---: |
+| :--- | :---: |
 |  [Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first/problem) | [Scala](src/main/introduction/fp_solve_me_first/Solution.scala) |
 |  [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem) | [Scala worksheet](src/main/introduction/hello_world/Solution.sc) |
 |  [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem) | [Scala worksheet](src/main/introduction/hello_world_n_times/Solution.sc) |
@@ -59,12 +59,13 @@ All test cases passed.
 ### Recursion
 
 | Problem | Solution |
-| :---: | :---: |
+| :--- | :---: |
 |  [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem) | [Scala](src/main/recursion/functional_programming_warmups_in_recursion___gcd/Solution.scala) |
 |  [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem) | [Scala](src/main/recursion/functional_programming_warmups_in_recursion___fibonacci_numbers/Solution.scala) |
 |  [Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle/problem) | [Scala](src/main/recursion/pascals_triangle/Solution.scala) |
 |  [Functions and Fractals: Sierpinski triangles](https://www.hackerrank.com/challenges/functions-and-fractals-sierpinski-triangles/problem) | [Scala](src/main/recursion/functions_and_fractals_sierpinski_triangles/Solution.scala) |
 |  [String Mingling](https://www.hackerrank.com/challenges/string-mingling/problem) | [Scala](src/main/recursion/string_mingling/Solution.scala) |
+|  [String-o-Permute](https://www.hackerrank.com/challenges/string-o-permute/problem) | [Scala](src/main/recursion/string_o_permute/Solution.scala) |
 
 ### Functional Structures
 ### Memoization and DP
