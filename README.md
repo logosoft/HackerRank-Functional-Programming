@@ -66,6 +66,7 @@ All test cases passed.
 |  [Functions and Fractals: Sierpinski triangles](https://www.hackerrank.com/challenges/functions-and-fractals-sierpinski-triangles/problem) | [Scala](src/main/recursion/functions_and_fractals_sierpinski_triangles/Solution.scala) |
 |  [String Mingling](https://www.hackerrank.com/challenges/string-mingling/problem) | [Scala](src/main/recursion/string_mingling/Solution.scala) |
 |  [String-o-Permute](https://www.hackerrank.com/challenges/string-o-permute/problem) | [Scala](src/main/recursion/string_o_permute/Solution.scala) |
+|  [Functions and Fractals - Recursive Trees](https://www.hackerrank.com/challenges/fractal-trees/problem) | [Scala](src/main/recursion/fractal_trees/Solution.scala) |
 
 ### Functional Structures
 ### Memoization and DP
