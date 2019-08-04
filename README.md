@@ -68,6 +68,7 @@ All test cases passed.
 |  [String-o-Permute](https://www.hackerrank.com/challenges/string-o-permute/problem) | [Scala](src/main/recursion/string_o_permute/Solution.scala) |
 |  [Functions and Fractals - Recursive Trees](https://www.hackerrank.com/challenges/fractal-trees/problem) | [Scala](src/main/recursion/fractal_trees/Solution.scala) |
 |  [Convex Hull](https://www.hackerrank.com/challenges/convex-hull-fp/problem) | [Scala](src/main/recursion/convex_hull_fp/Solution.scala) |
+|  [String Compression](https://www.hackerrank.com/challenges/string-compression/problem) | [Scala](src/main/recursion/string_compression/Solution.scala) |
 
 ### Functional Structures
 ### Memoization and DP
