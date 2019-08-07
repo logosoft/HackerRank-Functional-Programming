@@ -70,6 +70,7 @@ All test cases passed.
 |  [Convex Hull](https://www.hackerrank.com/challenges/convex-hull-fp/problem) | [Scala](src/main/recursion/convex_hull_fp/Solution.scala) |
 |  [String Compression](https://www.hackerrank.com/challenges/string-compression/problem) | [Scala](src/main/recursion/string_compression/Solution.scala) |
 |  [Crosswords-101](https://www.hackerrank.com/challenges/crosswords-101/problem) | [Scala](src/main/recursion/crosswords_101/Solution.scala) |
+|  [Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression/problem) | [Scala](src/main/recursion/prefix_compression/Solution.scala) |
 
 ### Functional Structures
 ### Memoization and DP
