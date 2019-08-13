@@ -72,6 +72,7 @@ All test cases passed.
 |  [Crosswords-101](https://www.hackerrank.com/challenges/crosswords-101/problem) | [Scala](src/main/recursion/crosswords_101/Solution.scala) |
 |  [Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression/problem) | [Scala](src/main/recursion/prefix_compression/Solution.scala) |
 |  [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem) | [Scala](src/main/recursion/string_reductions/Solution.scala) |
+|  [Super-Queens on a Chessboard](https://www.hackerrank.com/challenges/super-queens-on-a-chessboard/problem) | [Scala](src/main/recursion/super_queens_on_a_chessboard/Solution.scala) |
 
 ### Functional Structures
 ### Memoization and DP
