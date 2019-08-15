@@ -73,6 +73,7 @@ All test cases passed.
 |  [Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression/problem) | [Scala](src/main/recursion/prefix_compression/Solution.scala) |
 |  [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem) | [Scala](src/main/recursion/string_reductions/Solution.scala) |
 |  [Super-Queens on a Chessboard](https://www.hackerrank.com/challenges/super-queens-on-a-chessboard/problem) | [Scala](src/main/recursion/super_queens_on_a_chessboard/Solution.scala) |
+|  [The Sums of Powers](https://www.hackerrank.com/challenges/functional-programming-the-sums-of-powers/problem) | [Scala](src/main/recursion/functional_programming_the_sums_of_powers/Solution.scala) |
 
 ### Functional Structures
 ### Memoization and DP
