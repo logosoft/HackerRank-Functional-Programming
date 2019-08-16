@@ -74,6 +74,7 @@ All test cases passed.
 |  [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem) | [Scala](src/main/recursion/string_reductions/Solution.scala) |
 |  [Super-Queens on a Chessboard](https://www.hackerrank.com/challenges/super-queens-on-a-chessboard/problem) | [Scala](src/main/recursion/super_queens_on_a_chessboard/Solution.scala) |
 |  [The Sums of Powers](https://www.hackerrank.com/challenges/functional-programming-the-sums-of-powers/problem) | [Scala](src/main/recursion/functional_programming_the_sums_of_powers/Solution.scala) |
+|  [Sequence full of colors](https://www.hackerrank.com/challenges/sequence-full-of-colors/problem) | [Scala](src/main/recursion/sequence_full_of_colors/Solution.scala) |
 
 ### Functional Structures
 ### Memoization and DP
