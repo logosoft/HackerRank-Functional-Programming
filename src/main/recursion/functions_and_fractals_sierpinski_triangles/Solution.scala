@@ -3,11 +3,11 @@
 package recursion.functions_and_fractals_sierpinski_triangles
 
 object Solution {
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
     drawTriangles(scala.io.StdIn.readInt())
   }
 
-  def drawTriangles(n: Int) {
+  def drawTriangles(n: Int): Unit = {
     def cut(field: IndexedSeq[IndexedSeq[Char]], n: Int, width: Int, height: Int): IndexedSeq[IndexedSeq[Char]] = {
       @scala.annotation.tailrec
       def innerCut(n: Int, x: Int, y: Int, left: Int, top: Int, width: Int, height: Int): Boolean = {

@@ -5,7 +5,7 @@ package recursion.string_compression
 import scala.io.StdIn
 
 object Solution {
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
     case class Item(c: Char, count: Int)
 
     println(StdIn.readLine

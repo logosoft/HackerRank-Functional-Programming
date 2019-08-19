@@ -5,7 +5,7 @@ package recursion.string_reductions
 import java.util.Scanner
 
 object Solution {
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
     val sc = new Scanner(System.in)
 
     val s = sc.nextLine

@@ -15,7 +15,7 @@ object Solution {
 
   import Orientation.Orientation
 
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
     val sc = new Scanner(System.in)
     val n = sc.nextInt
 

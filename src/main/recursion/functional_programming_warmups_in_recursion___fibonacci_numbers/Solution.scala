@@ -10,7 +10,7 @@ object Solution {
     case _ => fibonacci(x - 1) + fibonacci(x - 2)
   }
 
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
     /** This will handle the input and output **/
     println(fibonacci(readInt()))
   }

@@ -5,7 +5,7 @@ package recursion.crosswords_101
 import java.util.Scanner
 
 object Solution {
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
     val sc = new Scanner(System.in)
 
     val size = 10

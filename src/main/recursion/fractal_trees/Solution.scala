@@ -3,11 +3,11 @@
 package recursion.fractal_trees
 
 object Solution {
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
     drawTrees(scala.io.StdIn.readInt())
   }
 
-  def drawTrees(n: Int) {
+  def drawTrees(n: Int): Unit = {
     def draw(field: IndexedSeq[IndexedSeq[Char]], n: Int, width: Int, height: Int): IndexedSeq[IndexedSeq[Char]] = {
       @scala.annotation.tailrec
       def innerDraw(n: Int, x: Int, y: Int, left: Int, top: Int, width: Int, height: Int): Boolean = {
