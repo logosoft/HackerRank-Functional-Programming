@@ -76,6 +76,7 @@ All test cases passed.
 |  [The Sums of Powers](https://www.hackerrank.com/challenges/functional-programming-the-sums-of-powers/problem) | [Scala](src/main/recursion/functional_programming_the_sums_of_powers/Solution.scala) |
 |  [Sequence full of colors](https://www.hackerrank.com/challenges/sequence-full-of-colors/problem) | [Scala](src/main/recursion/sequence_full_of_colors/Solution.scala) |
 |  [Filter Elements](https://www.hackerrank.com/challenges/filter-elements/problem) | [Scala](src/main/recursion/filter_elements/Solution.scala) |
+|  [Super Digit](https://www.hackerrank.com/challenges/super-digit/problem) | [Scala](src/main/recursion/super_digit/Solution.scala) |
 
 ### Functional Structures
 ### Memoization and DP
