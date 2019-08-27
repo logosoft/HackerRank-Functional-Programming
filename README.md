@@ -77,6 +77,7 @@ All test cases passed.
 |  [Sequence full of colors](https://www.hackerrank.com/challenges/sequence-full-of-colors/problem) | [Scala](src/main/recursion/sequence_full_of_colors/Solution.scala) |
 |  [Filter Elements](https://www.hackerrank.com/challenges/filter-elements/problem) | [Scala](src/main/recursion/filter_elements/Solution.scala) |
 |  [Super Digit](https://www.hackerrank.com/challenges/super-digit/problem) | [Scala](src/main/recursion/super_digit/Solution.scala) |
+|  [The Tree Of Life](https://www.hackerrank.com/challenges/the-tree-of-life/problem) | [Scala](src/main/recursion/the_tree_of_life/Solution.scala) |
 
 ### Functional Structures
 ### Memoization and DP
