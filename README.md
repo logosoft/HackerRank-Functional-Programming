@@ -81,6 +81,11 @@ All test cases passed.
 |  [Concave Polygon](https://www.hackerrank.com/challenges/lambda-march-concave-polygon/problem) | [Scala](recursion/lambda_march_concave_polygon/Solution.scala) |
 
 ### Functional Structures
+
+| Problem | Solution |
+| :--- | :---: |
+|  [Swap Nodes](https://www.hackerrank.com/challenges/swap-nodes/problem) | [Scala](src/main/functional_structures/swap_nodes/Solution.scala) |
+
 ### Memoization and DP
 ### Persistent Structures
 ### Ad Hoc
