@@ -85,6 +85,7 @@ All test cases passed.
 | Problem | Solution |
 | :--- | :---: |
 |  [Swap Nodes](https://www.hackerrank.com/challenges/swap-nodes/problem) | [Scala](src/main/functional_structures/swap_nodes/Solution.scala) |
+|  [Matrix Rotation](https://www.hackerrank.com/challenges/matrix-rotation/problem) | [Scala](src/main/functional_structures/matrix_rotation/Solution.scala) |
 
 ### Memoization and DP
 ### Persistent Structures
