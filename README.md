@@ -89,6 +89,7 @@ All test cases passed.
 |  [Valid BST](https://www.hackerrank.com/challenges/valid-bst/problem) | [Scala](src/main/functional_structures/valid_bst/Solution.scala) |
 |  [Lists and GCD](https://www.hackerrank.com/challenges/lists-and-gcd/problem) | [Scala](src/main/functional_structures/lists_and_gcd/Solution.scala) |
 |  [Prison Transport](https://www.hackerrank.com/challenges/prison-transport/problem) | [Scala](src/main/functional_structures/prison_transport/Solution.scala) |
+|  [Substring Searching](https://www.hackerrank.com/challenges/kmp-fp/problem) | [Scala](src/main/functional_structures/kmp_fp/Solution.scala) |
 
 ### Memoization and DP
 ### Persistent Structures
