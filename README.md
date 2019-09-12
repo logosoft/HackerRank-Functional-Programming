@@ -91,6 +91,7 @@ All test cases passed.
 |  [Prison Transport](https://www.hackerrank.com/challenges/prison-transport/problem) | [Scala](src/main/functional_structures/prison_transport/Solution.scala) |
 |  [Substring Searching](https://www.hackerrank.com/challenges/kmp-fp/problem) | [Scala](src/main/functional_structures/kmp_fp/Solution.scala) |
 |  [Order exercises](https://www.hackerrank.com/challenges/order-exercises/problem) | [Scala](src/main/functional_structures/order_exercises/Solution.scala) |
+|  [John and Fences](https://www.hackerrank.com/challenges/john-and-fences/problem) | [Scala](src/main/functional_structures/john_and_fences/Solution.scala) |
 
 ### Memoization and DP
 ### Persistent Structures
