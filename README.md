@@ -93,6 +93,7 @@ All test cases passed.
 |  [Order exercises](https://www.hackerrank.com/challenges/order-exercises/problem) | [Scala](src/main/functional_structures/order_exercises/Solution.scala) |
 |  [John and Fences](https://www.hackerrank.com/challenges/john-and-fences/problem) | [Scala](src/main/functional_structures/john_and_fences/Solution.scala) |
 |  [Range Minimum Query](https://www.hackerrank.com/challenges/range-minimum-query/problem) | [Scala](src/main/functional_structures/range_minimum_query/Solution.scala) |
+|  [Stock Prediction](https://www.hackerrank.com/challenges/stocks-prediction/problem) | [Scala](src/main/functional_structures/stocks_prediction/Solution.scala) |
 
 ### Memoization and DP
 ### Persistent Structures
