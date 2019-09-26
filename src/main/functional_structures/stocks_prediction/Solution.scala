@@ -16,14 +16,13 @@ class FastReader() {
   def nextLong: Long = next.toLong
 
   def next: String = {
-    while ( {
-      st == null || !st.hasMoreElements
-    }) try
-      st = new StringTokenizer(br.readLine)
-    catch {
-      case e: IOException =>
-        e.printStackTrace()
-    }
+    while (st == null || !st.hasMoreElements)
+      try
+        st = new StringTokenizer(br.readLine)
+      catch {
+        case e: IOException =>
+          e.printStackTrace()
+      }
     st.nextToken
   }
 

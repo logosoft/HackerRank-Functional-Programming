@@ -96,6 +96,7 @@ All test cases passed.
 |  [Stock Prediction](https://www.hackerrank.com/challenges/stocks-prediction/problem) | [Scala](src/main/functional_structures/stocks_prediction/Solution.scala) |
 |  [Mirko at the Construction Site](https://www.hackerrank.com/challenges/mirko-at-construction-site/problem) | [Scala](src/main/functional_structures/mirko_at_construction_site/Solution.scala) |
 |  [Tree manager](https://www.hackerrank.com/challenges/tree-manager/problem) | [Scala](src/main/functional_structures/tree_manager/Solution.scala) |
+|  [Fighting Armies](https://www.hackerrank.com/challenges/fighting-armies/problem) | [Scala](src/main/functional_structures/fighting_armies/Solution.scala) |
 
 ### Memoization and DP
 ### Persistent Structures
