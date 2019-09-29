@@ -99,6 +99,11 @@ All test cases passed.
 |  [Fighting Armies](https://www.hackerrank.com/challenges/fighting-armies/problem) | [Scala](src/main/functional_structures/fighting_armies/Solution.scala) |
 
 ### Memoization and DP
+
+| Problem | Solution |
+| :--- | :---: |
+|  [Number of Binary Search Tree](https://www.hackerrank.com/challenges/number-of-binary-search-tree/problem) | [Scala](src/main/memoization_and_dp/number_of_binary_search_tree/Solution.scala) |
+
 ### Persistent Structures
 ### Ad Hoc
 ### Parsers
