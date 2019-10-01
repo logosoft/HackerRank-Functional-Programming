@@ -100,6 +100,7 @@ All test cases passed.
 | :--- | :---: |
 | [Number of Binary Search Tree](https://www.hackerrank.com/challenges/number-of-binary-search-tree/problem) | [Scala](src/main/memoization_and_dp/number_of_binary_search_tree/Solution.scala) |
 | [Pentagonal Numbers](https://www.hackerrank.com/challenges/pentagonal-numbers/problem) | [Scala](src/main/memoization_and_dp/pentagonal_numbers/Solution.scala) |
+| [Bitter Chocolate](https://www.hackerrank.com/challenges/bitter-chocolate/problem) | [Scala](src/main/memoization_and_dp/bitter_chocolate/Solution.scala) |
 
 ### Persistent Structures
 ### Ad Hoc
