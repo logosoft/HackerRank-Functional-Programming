@@ -102,6 +102,7 @@ All test cases passed.
 | [Pentagonal Numbers](https://www.hackerrank.com/challenges/pentagonal-numbers/problem) | [Scala](src/main/memoization_and_dp/pentagonal_numbers/Solution.scala) |
 | [Bitter Chocolate](https://www.hackerrank.com/challenges/bitter-chocolate/problem) | [Scala](src/main/memoization_and_dp/bitter_chocolate/Solution.scala) |
 | [Fibonacci](https://www.hackerrank.com/challenges/fibonacci-fp/problem) | [Scala](src/main/memoization_and_dp/fibonacci_fp/Solution.scala) |
+| [Reverse Factorization](https://www.hackerrank.com/challenges/reverse-factorization/problem) | [Scala](src/main/memoization_and_dp/reverse_factorization/Solution.scala) |
 
 ### Persistent Structures
 ### Ad Hoc
