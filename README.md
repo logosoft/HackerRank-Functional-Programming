@@ -106,6 +106,7 @@ All test cases passed.
 | [Different Ways](https://www.hackerrank.com/challenges/different-ways-fp/problem) | [Scala](src/main/memoization_and_dp/different_ways_fp/Solution.scala) |
 | [Dice Path](https://www.hackerrank.com/challenges/dice-path/problem) | [Scala](src/main/memoization_and_dp/dice_path/Solution.scala) |
 | [Bangalore Bank](https://www.hackerrank.com/challenges/bangalore-bank/problem) | [Scala](src/main/memoization_and_dp/bangalore_bank/Solution.scala) |
+| [Sherlock and the Maze](https://www.hackerrank.com/challenges/sherlock-and-the-maze/problem) | [Scala](src/main/memoization_and_dp/sherlock_and_the_maze/Solution.scala) |
 
 ### Persistent Structures
 ### Ad Hoc
