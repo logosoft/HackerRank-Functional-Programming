@@ -108,6 +108,7 @@ All test cases passed.
 | [Bangalore Bank](https://www.hackerrank.com/challenges/bangalore-bank/problem) | [Scala](src/main/memoization_and_dp/bangalore_bank/Solution.scala) |
 | [Sherlock and the Maze](https://www.hackerrank.com/challenges/sherlock-and-the-maze/problem) | [Scala](src/main/memoization_and_dp/sherlock_and_the_maze/Solution.scala) |
 | [Password Cracker FP](https://www.hackerrank.com/challenges/password-cracker-fp/problem) | [Scala](src/main/memoization_and_dp/password_cracker_fp/Solution.scala) |
+| [Expressions](https://www.hackerrank.com/challenges/expressions/problem) | [Scala](src/main/memoization_and_dp/expressions/Solution.scala) |
 
 ### Persistent Structures
 ### Ad Hoc
