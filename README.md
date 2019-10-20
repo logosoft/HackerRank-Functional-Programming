@@ -112,6 +112,11 @@ All test cases passed.
 | [Klotski](https://www.hackerrank.com/challenges/klotski/problem) | [Scala](src/main/memoization_and_dp/klotski/Solution.scala) |
 
 ### Persistent Structures
+
+| Problem | Solution |
+| :--- | :---: |
+| [Minimum Multiple](https://www.hackerrank.com/challenges/minimum-multiple/problem) | [Scala](src/main/persistent_structures/minimum_multiple/Solution.scala) |
+
 ### Ad Hoc
 ### Parsers
 ### Interpreter and Compilers
