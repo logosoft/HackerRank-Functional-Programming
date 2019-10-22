@@ -2,7 +2,7 @@
 
 package persistent_structures.minimum_multiple
 
-import java.io._
+import java.io.{BufferedReader, IOException, InputStreamReader}
 import java.util.StringTokenizer
 
 import scala.collection.mutable
@@ -42,11 +42,12 @@ class FastReader() {
 }
 
 abstract class SegmentTree[Node, Value](seq: IndexedSeq[Value])(implicit tag: ClassTag[Node]) {
+  private val len: Int = seq.length
+
   val nodes: Array[Node] = {
     val defaultNode = emptyNode
     Array.fill[Node](4 * len)(defaultNode)
   }
-  private val len: Int = seq.length
 
   def build(v: Int = 1, left: Int = 0, right: Int = len - 1): Unit = {
     nodes(v) = if (left == right)
