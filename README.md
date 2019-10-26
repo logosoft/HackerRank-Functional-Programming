@@ -117,6 +117,7 @@ All test cases passed.
 | :--- | :---: |
 | [Minimum Multiple](https://www.hackerrank.com/challenges/minimum-multiple/problem) | [Scala](src/main/persistent_structures/minimum_multiple/Solution.scala) |
 | [Messy Medians](https://www.hackerrank.com/challenges/messy-medians/problem) | [Scala](src/main/persistent_structures/messy_medians/Solution.scala) |
+| [Boleyn Salary](https://www.hackerrank.com/challenges/boleyn-salary/problem) | [Scala](src/main/persistent_structures/boleyn_salary/Solution.scala) |
 
 ### Ad Hoc
 ### Parsers
