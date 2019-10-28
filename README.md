@@ -120,6 +120,11 @@ All test cases passed.
 | [Boleyn Salary](https://www.hackerrank.com/challenges/boleyn-salary/problem) | [Scala](src/main/persistent_structures/boleyn_salary/Solution.scala) |
 
 ### Ad Hoc
+
+| Problem | Solution |
+| :--- | :---: |
+| [Jumping Bunnies](https://www.hackerrank.com/challenges/jumping-bunnies/problem) | [Scala](src/main/ad_hoc/jumping_bunnies/Solution.scala) |
+
 ### Parsers
 ### Interpreter and Compilers
 
