@@ -124,6 +124,7 @@ All test cases passed.
 | Problem | Solution |
 | :--- | :---: |
 | [Jumping Bunnies](https://www.hackerrank.com/challenges/jumping-bunnies/problem) | [Scala](src/main/ad_hoc/jumping_bunnies/Solution.scala) |
+| [Rotate String](https://www.hackerrank.com/challenges/rotate-string/problem) | [Scala](src/main/ad_hoc/rotate_string/Solution.scala) |
 
 ### Parsers
 ### Interpreter and Compilers
