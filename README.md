@@ -126,6 +126,7 @@ All test cases passed.
 | [Jumping Bunnies](https://www.hackerrank.com/challenges/jumping-bunnies/problem) | [Scala](src/main/ad_hoc/jumping_bunnies/Solution.scala) |
 | [Rotate String](https://www.hackerrank.com/challenges/rotate-string/problem) | [Scala](src/main/ad_hoc/rotate_string/Solution.scala) |
 | [Remove Duplicates](https://www.hackerrank.com/challenges/remove-duplicates/problem) | [Scala](src/main/ad_hoc/remove_duplicates/Solution.scala) |
+| [Huge GCD](https://www.hackerrank.com/challenges/huge-gcd-fp/problem) | [Scala](src/main/ad_hoc/huge_gcd_fp/Solution.scala) |
 
 ### Parsers
 ### Interpreter and Compilers
