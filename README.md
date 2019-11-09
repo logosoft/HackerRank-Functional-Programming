@@ -127,6 +127,7 @@ All test cases passed.
 | [Rotate String](https://www.hackerrank.com/challenges/rotate-string/problem) | [Scala](src/main/ad_hoc/rotate_string/Solution.scala) |
 | [Remove Duplicates](https://www.hackerrank.com/challenges/remove-duplicates/problem) | [Scala](src/main/ad_hoc/remove_duplicates/Solution.scala) |
 | [Huge GCD](https://www.hackerrank.com/challenges/huge-gcd-fp/problem) | [Scala](src/main/ad_hoc/huge_gcd_fp/Solution.scala) |
+| [Kundu And Bubble Wrap](https://www.hackerrank.com/challenges/kundu-and-bubble-wrap/problem) | [Scala](src/main/ad_hoc/kundu_and_bubble_wrap/Solution.scala) |
 
 ### Parsers
 ### Interpreter and Compilers
