@@ -129,6 +129,7 @@ All test cases passed.
 | [Huge GCD](https://www.hackerrank.com/challenges/huge-gcd-fp/problem) | [Scala](src/main/ad_hoc/huge_gcd_fp/Solution.scala) |
 | [Kundu And Bubble Wrap](https://www.hackerrank.com/challenges/kundu-and-bubble-wrap/problem) | [Scala](src/main/ad_hoc/kundu_and_bubble_wrap/Solution.scala) |
 | [Missing Numbers (FP)](https://www.hackerrank.com/challenges/missing-numbers-fp/problem) | [Scala](src/main/ad_hoc/missing_numbers_fp/Solution.scala) |
+| [Common Divisors](https://www.hackerrank.com/challenges/common-divisors/problem) | [Scala](src/main/ad_hoc/common_divisors/Solution.scala) |
 
 ### Parsers
 ### Interpreter and Compilers
