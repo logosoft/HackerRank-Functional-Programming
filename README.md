@@ -131,6 +131,7 @@ All test cases passed.
 | [Missing Numbers (FP)](https://www.hackerrank.com/challenges/missing-numbers-fp/problem) | [Scala](src/main/ad_hoc/missing_numbers_fp/Solution.scala) |
 | [Common Divisors](https://www.hackerrank.com/challenges/common-divisors/problem) | [Scala](src/main/ad_hoc/common_divisors/Solution.scala) |
 | [Mangoes](https://www.hackerrank.com/challenges/mango/problem) | [Scala](src/main/ad_hoc/mango/Solution.scala) |
+| [Game of Kyles](https://www.hackerrank.com/challenges/game-of-kyles/problem) | [Scala](src/main/ad_hoc/game_of_kyles/Solution.scala) |
 
 ### Parsers
 ### Interpreter and Compilers
