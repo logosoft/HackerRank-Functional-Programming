@@ -134,7 +134,8 @@ All test cases passed.
 | [Game of Kyles](https://www.hackerrank.com/challenges/game-of-kyles/problem) | [Scala](src/main/ad_hoc/game_of_kyles/Solution.scala) |
 | [Subset Sum](https://www.hackerrank.com/challenges/subset-sum/problem) | [Scala](src/main/ad_hoc/subset_sum/Solution.scala) |
 | [Elementary Watson](https://www.hackerrank.com/challenges/elementary-watson/problem) | [Scala](src/main/ad_hoc/elementary_watson/Solution.scala) |
-| [Captain Prime](https://www.hackerrank.com/challenges/captain-prime/problem) | [Scala](ssrc/main/ad_hoc/captain_prime/Solution.scala) |
+| [Captain Prime](https://www.hackerrank.com/challenges/captain-prime/problem) | [Scala](src/main/ad_hoc/captain_prime/Solution.scala) |
+| [Puzzle and PC](https://www.hackerrank.com/challenges/puzzle-and-pc/problem) | [Scala](src/main/ad_hoc/puzzle_and_pc/Solution.scala) |
 
 ### Parsers
 ### Interpreter and Compilers
