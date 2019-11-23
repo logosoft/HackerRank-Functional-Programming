@@ -74,7 +74,7 @@ All test cases passed.
 | [Filter Elements](https://www.hackerrank.com/challenges/filter-elements/problem) | [Scala](src/main/recursion/filter_elements/Solution.scala) |
 | [Super Digit](https://www.hackerrank.com/challenges/super-digit/problem) | [Scala](src/main/recursion/super_digit/Solution.scala) |
 | [The Tree Of Life](https://www.hackerrank.com/challenges/the-tree-of-life/problem) | [Scala](src/main/recursion/the_tree_of_life/Solution.scala) |
-| [Concave Polygon](https://www.hackerrank.com/challenges/lambda-march-concave-polygon/problem) | [Scala](recursion/lambda_march_concave_polygon/Solution.scala) |
+| [Concave Polygon](https://www.hackerrank.com/challenges/lambda-march-concave-polygon/problem) | [Scala](src/main/recursion/lambda_march_concave_polygon/Solution.scala) |
 
 ### Functional Structures
 
@@ -136,6 +136,7 @@ All test cases passed.
 | [Elementary Watson](https://www.hackerrank.com/challenges/elementary-watson/problem) | [Scala](src/main/ad_hoc/elementary_watson/Solution.scala) |
 | [Captain Prime](https://www.hackerrank.com/challenges/captain-prime/problem) | [Scala](src/main/ad_hoc/captain_prime/Solution.scala) |
 | [Puzzle and PC](https://www.hackerrank.com/challenges/puzzle-and-pc/problem) | [Scala](src/main/ad_hoc/puzzle_and_pc/Solution.scala) |
+| [\[Approximate Challenge\] Convolutional Coding](https://www.hackerrank.com/challenges/convolutional-coding/problem) | [Scala](src/main/ad_hoc/convolutional_coding/Solution.scala) |
 
 ### Parsers
 ### Interpreter and Compilers
