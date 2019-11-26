@@ -139,6 +139,11 @@ All test cases passed.
 | [\[Approximate Challenge\] Convolutional Coding](https://www.hackerrank.com/challenges/convolutional-coding/problem) | [Scala](src/main/ad_hoc/convolutional_coding/Solution.scala) |
 
 ### Parsers
+
+| Problem | Solution |
+| :--- | :---: |
+| [Expressions V2](https://www.hackerrank.com/challenges/expressions-v2/problem) | [Scala](src/main/parsers/expressions_v2/Solution.scala) |
+
 ### Interpreter and Compilers
 
 ## Author
