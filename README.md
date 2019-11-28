@@ -143,6 +143,7 @@ All test cases passed.
 | Problem | Solution |
 | :--- | :---: |
 | [Expressions V2](https://www.hackerrank.com/challenges/expressions-v2/problem) | [Scala](src/main/parsers/expressions_v2/Solution.scala) |
+| [Simplify the Algebraic Expressions](https://www.hackerrank.com/challenges/simplify-the-algebraic-expressions/problem) | [Scala](src/main/parsers/simplify_the_algebraic_expressions/Solution.scala) |
 
 ### Interpreter and Compilers
 
