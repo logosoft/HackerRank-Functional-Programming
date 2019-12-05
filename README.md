@@ -150,6 +150,7 @@ All test cases passed.
 | Problem | Solution |
 | :--- | :---: |
 | [While Language](https://www.hackerrank.com/challenges/while-language-fp/problem) | [Scala](src/main/interpreter_and_compilers/while_language_fp/Solution.scala) |
+| [Intuitive language](https://www.hackerrank.com/challenges/intuitive-language/problem) | [Scala](src/main/interpreter_and_compilers/intuitive_language/Solution.scala) |
 
 ## Author
 Oleg Oleshchuk
