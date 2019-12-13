@@ -2,7 +2,7 @@
 
 [![HackerRank logo](https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg)](https://www.hackerrank.com) 
 
-Collection of solutions to [HackerRank](https://www.hackerrank.com) practice problems in [Functional Programming](https://www.hackerrank.com/domains/fp).
+Complete collection of solutions to [HackerRank](https://www.hackerrank.com) practice problems in [Functional Programming](https://www.hackerrank.com/domains/fp).
 
 All the code tested with Scala version 2.13.1.
 
@@ -153,9 +153,11 @@ All test cases passed.
 | [Intuitive language](https://www.hackerrank.com/challenges/intuitive-language/problem) | [Scala](src/main/interpreter_and_compilers/intuitive_language/Solution.scala) |
 | [Down With Abstractions](https://www.hackerrank.com/challenges/down-with-abstractions/problem) | [Scala](src/main/interpreter_and_compilers/down_with_abstractions/Solution.scala) |
 | [Infer](https://www.hackerrank.com/challenges/infer/problem) | [Scala](src/main/interpreter_and_compilers/infer/Solution.scala) |
+| [BrainF__k interpreter](https://www.hackerrank.com/challenges/brainf-k-interpreter-fp/problem) | [Scala](src/main/interpreter_and_compilers/brainf_k_interpreter_fp/Solution.scala) |
 
 ## Author
-Oleg Oleshchuk
+
+<a href="https://www.linkedin.com/in/oleg-oleshchuk/" target="_blank">Oleg Oleshchuk</a>
 
 ## License
 
